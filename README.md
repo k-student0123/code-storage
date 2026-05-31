@@ -1,2 +1,2 @@
-# myminecraftplugin
-This is my Minecraft plugin. (Korean student made)
+# Korean student's code-storage
+welcome!
